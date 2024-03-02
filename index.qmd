@@ -9,7 +9,9 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/Shuaiqi-Liu
+format: 
+    html
 ---
 
 Hi, I am a PhD student of BioScience and Biomedical Engineering (BSBE) in Hongkong University of Science and Technology (HKUST) Guangzhou campus now. I am interested in CRISPR-Cas13 system and evolotion biology. In addition, i am a super fan of R!!

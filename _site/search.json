@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Education Experience",
-    "section": "",
-    "text": "About this site\nand you can add more content in this website"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Shuaiqi Liu 刘帅齐",
-    "section": "",
-    "text": "Hi, I am a PhD student of BioScience and Biomedical Engineering (BSBE) in Hongkong University of Science and Technology (HKUST) Guangzhou campus now. I am interested in CRISPR-Cas13 system and evolotion biology. In addition, i am a super fan of R!!"
-  },
-  {
-    "objectID": "new.html",
-    "href": "new.html",
-    "title": "Publiacation",
-    "section": "",
-    "text": "for(i in 1:10){\n    print(i^2)\n}\n\n[1] 1\n[1] 4\n[1] 9\n[1] 16\n[1] 25\n[1] 36\n[1] 49\n[1] 64\n[1] 81\n[1] 100\n\n\n\n\n\n\nTable 1: 汽车数据\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\n\n\n\n\nMazda RX4\n21.0\n6\n160.0\n110\n3.90\n\n\nMazda RX4 Wag\n21.0\n6\n160.0\n110\n3.90\n\n\nDatsun 710\n22.8\n4\n108.0\n93\n3.85\n\n\nHornet 4 Drive\n21.4\n6\n258.0\n110\n3.08\n\n\nHornet Sportabout\n18.7\n8\n360.0\n175\n3.15\n\n\nValiant\n18.1\n6\n225.0\n105\n2.76\n\n\nDuster 360\n14.3\n8\n360.0\n245\n3.21\n\n\nMerc 240D\n24.4\n4\n146.7\n62\n3.69\n\n\nMerc 230\n22.8\n4\n140.8\n95\n3.92\n\n\nMerc 280\n19.2\n6\n167.6\n123\n3.92\n\n\n\n\n\n\n\n\n{width = “290”}\n\nlibrary(ggplot2)\n\nggplot(data = mtcars )+\n    geom_point(aes(x = cyl, y = mpg))+\n    theme_bw()\n\n\n\n\n\n\n\n\nSo what we can with quarto?? For an exampel, we can you use quarto to do our note."
-  },
-  {
-    "objectID": "Publicaiton.html",
-    "href": "Publicaiton.html",
-    "title": "Publiacation",
-    "section": "",
-    "text": "for(i in 1:10){\n    print(i^2)\n}\n\n[1] 1\n[1] 4\n[1] 9\n[1] 16\n[1] 25\n[1] 36\n[1] 49\n[1] 64\n[1] 81\n[1] 100\n\n\n\n\n\n\nTable 1: 汽车数据\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\n\n\n\n\nMazda RX4\n21.0\n6\n160.0\n110\n3.90\n\n\nMazda RX4 Wag\n21.0\n6\n160.0\n110\n3.90\n\n\nDatsun 710\n22.8\n4\n108.0\n93\n3.85\n\n\nHornet 4 Drive\n21.4\n6\n258.0\n110\n3.08\n\n\nHornet Sportabout\n18.7\n8\n360.0\n175\n3.15\n\n\nValiant\n18.1\n6\n225.0\n105\n2.76\n\n\nDuster 360\n14.3\n8\n360.0\n245\n3.21\n\n\nMerc 240D\n24.4\n4\n146.7\n62\n3.69\n\n\nMerc 230\n22.8\n4\n140.8\n95\n3.92\n\n\nMerc 280\n19.2\n6\n167.6\n123\n3.92\n\n\n\n\n\n\n\n\n{width = “290”}\n\nlibrary(ggplot2)\n\nggplot(data = mtcars )+\n    geom_point(aes(x = cyl, y = mpg))+\n    theme_bw()\n\n\n\n\n\n\n\n\nSo what we can with quarto?? For an exampel, we can you use quarto to do our note."
-  },
-  {
     "objectID": "Education.html",
     "href": "Education.html",
     "title": "Education Experience",
@@ -63,17 +35,17 @@
     "text": "ShuaiQi Liu, Huan Tian, Yusong Xu, Huabing Wang. Juvenile hormone regulates silk-associated gene expression in Bombyx mori by m6A methylation.Cellular and Molecular Life Science\nShuaiQi Liu, ShunZe Jia, Huan Tian, et.al. Evolution of m6A related genes in insects and function of METTL3 in embryonic development of silkworm. Insect Molecular Biology\nHuan Tian, ShuaiQi Liu, WenHui Jing, et.al. Imaginal disc growth factor mediates melanin synthesis and energy metabolism in Bombyx mori. Archives of Insect Biochemistry and Physiology\nYanYan Zhou, Yue Jin, ShuaiQi Liu, et.al. Genome-wide identification and comparative analysis of lipocalin families in lepidoptera with an emphasis on Bombyx mori. Insect Science\nTi Qin, DongQuan Wang, NingXin Qu, ShuaiQi Liu, et.al. Bird species identification using faecal DNA analysis. Chinese Journal of Wildlife\n\n\nfor(i in 1:10){\n    print(i^2)\n}\n\n[1] 1\n[1] 4\n[1] 9\n[1] 16\n[1] 25\n[1] 36\n[1] 49\n[1] 64\n[1] 81\n[1] 100\n\n\n\n\n\n\nTable 1: 汽车数据\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\n\n\n\n\nMazda RX4\n21.0\n6\n160.0\n110\n3.90\n\n\nMazda RX4 Wag\n21.0\n6\n160.0\n110\n3.90\n\n\nDatsun 710\n22.8\n4\n108.0\n93\n3.85\n\n\nHornet 4 Drive\n21.4\n6\n258.0\n110\n3.08\n\n\nHornet Sportabout\n18.7\n8\n360.0\n175\n3.15\n\n\nValiant\n18.1\n6\n225.0\n105\n2.76\n\n\nDuster 360\n14.3\n8\n360.0\n245\n3.21\n\n\nMerc 240D\n24.4\n4\n146.7\n62\n3.69\n\n\nMerc 230\n22.8\n4\n140.8\n95\n3.92\n\n\nMerc 280\n19.2\n6\n167.6\n123\n3.92\n\n\n\n\n\n\n\n\n{width = “290”}\n\nlibrary(ggplot2)\n\nggplot(data = mtcars )+\n    geom_point(aes(x = cyl, y = mpg))+\n    theme_bw()\n\n\n\n\n\n\n\n\nSo what we can with quarto?? For an exampel, we can you use quarto to do our note."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shuaiqi Liu 刘帅齐",
+    "section": "",
+    "text": "Hi, I am a PhD student of BioScience and Biomedical Engineering (BSBE) in Hongkong University of Science and Technology (HKUST) Guangzhou campus now. I am interested in CRISPR-Cas13 system and evolotion biology. In addition, i am a super fan of R!!"
+  },
+  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Shuaiqi Liu 刘帅齐",
     "section": "Education",
     "text": "Education\nHongKong University of Science and Technology | Guangzhou, China | PhD in BioScience and Biomedical Engineering | Sept 2023 - Now\nZhejiang University | Hangzhou, China | Master in Applied Biology | Sept 2020 - June 2023"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Finley Malloc",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]

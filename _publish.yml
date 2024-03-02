@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 6c9df081-393a-4cd3-b46b-c603bfa6deef
+      url: 'https://serene-starburst-8cbfbd.netlify.app'
