@@ -1,9 +1,23 @@
 ---
-title: "About me"
+title: "Shuaiqi Liu 刘帅齐"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-**Hello!**
+Hi, I am a PhD student of BioScience and Biomedical Engineering (BSBE) in Hongkong University of Science and Technology (HKUST) Guangzhou campus now. I am interested in CRISPR-Cas13 system and evolotion biology. In addition, i am a super fan of R!!
 
-I am Shuaiqi Liu, a PhD student in HKUST Guangzhou campus now. I am interested in protein engineering and bioinfomatic.
+## Education
 
-By the way, I am a super fan of R!!
+HongKong University of Science and Technology | Guangzhou, China |
+PhD in BioScience and Biomedical Engineering | Sept 2023 - Now
+
+Zhejiang University | Hangzhou, China |
+Master in Applied Biology | Sept 2020 - June 2023
